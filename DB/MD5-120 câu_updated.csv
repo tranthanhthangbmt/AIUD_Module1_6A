@@ -1,0 +1,482 @@
+ID,CourseContentId,IdContent,QuestionType,QuestionContent,AAnsver,BAnswer,CAnswer,DAnswer,Answer,ResultAnswer
+1,Module 5. Giải quyết v�,5,1,"Theo tài liệ""lỗi phần"" hay ""bug"" là g�",Một tính năng mới của chư,Một sai sót hoặc khiếm khuyết khiến chương trình tạo ra kết quả không chính x�,Một loại virus máy,Một bản cập nhật của h�,B,Một sai sót hoặc khiếm khuyết khiến chương trình tạo ra kết quả không chính x�
+2,Module 5. Giải quyết v�,5,1,Nguyên nhân nào được xem là phổ biến nhất gây r,Xung đột phầ,Vấn đề tươn,Lỗi lập t,Lỗi phần ,C,Lỗi lập t
+3,Module 5. Giải quyết v�,5,1,Lỗi xảy ra khi hai hoặc nhiều chương trình được cài đặt trên cùng một hệ thống không tương ,Lỗi lập t,Lỗi cú p,Xung đột phầ,Lỗi log,C,Xung đột phầ
+4,Module 5. Giải quyết v�,5,1,"Lỗi nào được m�""khó nh�"" nhất vì chương trình vẫn chạy nhưng cho ra k",Lỗi Logic (Logical Error,Lỗi Cú pháp (Syntax Err,Lỗi Thời gian chạy (Runtime E,Lỗi Hiệu năng (Performance Er,A,Lỗi Logic (Logical Error
+5,Module 5. Giải quyết v�,5,1,Việc quên dấu chấm phẩy (;) ở cuối một câu lệnh trong C++ hoặc Java là v�,Lỗi Log,Lỗi Cú p,Lỗi Thời gian ,Lỗi Giao diện ngư�,B,Lỗi Cú p
+6,Module 5. Giải quyết v�,5,1,"Lỗi chỉ xuất hiện khi chương trình đang thực thi, ví dụ như cố gắng chia một s",Lỗi Log,Lỗi Cú p,Lỗi Thời gian ,Lỗi Giao diện ngư�,C,Lỗi Thời gian 
+7,Module 5. Giải quyết v�,5,1,Một nút bấm không hoạt động hoặc văn bản bị lệch ra khỏi khung là ,Lỗi Log,Lỗi Hiệu ,Lỗi Thời gian ,Lỗi Giao diện người dùng (UI,D,Lỗi Giao diện người dùng (UI
+8,Module 5. Giải quyết v�,5,1,"Khi một chương trình hoạt động đúng chức năng nhưng rất chậm hoặc tốn nhiều bộ nhớ, ",Lỗi Hiệu năng (Performance Er,Lỗi Cú pháp (Syntax Err,Lỗi Logic (Logical Error,Lỗi Thời gian chạy (Runtime E,A,Lỗi Hiệu năng (Performance Er
+9,Module 5. Giải quyết v�,5,1,Dấu hiệu nào được xem là rõ ràng nhất cho thấy một chươn,Chương trình chạy nhanh hơn bình,Chương trình tự động ,Chương trình hoặc hệ điều hành hiển thị thông báo l�,Giao diện chương trình có màu ,C,Chương trình hoặc hệ điều hành hiển thị thông báo l�
+10,Module 5. Giải quyết v�,5,1,"Khi một chương trình đột ngột dừng lại và cửa sổ ứng dụng không còn phản hồi với bất k�",Sai chức n�,Thông báo l,�ng d�ng b� treo (Application Freeze),Lỗi hiệu ,C,�ng d�ng b� treo (Application Freeze)
+11,Module 5. Giải quyết v�,5,1,"Khi bạn nhấp vào""Lư"" nhưng tệp không được lưu, đây là biểu hiện của dấu hi",�ng d�ng b� treo,Không phản ,Thông báo l,Sai chức năng (Incorrect Functionali,D,Sai chức năng (Incorrect Functionali
+12,Module 5. Giải quyết v�,5,1,Lỗi phần cứng (hardware errors) xuất phá,Sai sót trong mã lập trình hoặc ,Những yếu tố vật lý hoặc sự hư h�,Xung đột giữa các ph,Virus và phần mềm đ,B,Những yếu tố vật lý hoặc sự hư h�
+13,Module 5. Giải quyết v�,5,1,"Khi biểu tượng Wi-Fi trên máy tính hiể""X đ"", đây là biểu hiện của",Tốc độ mạ,"Tín hiệu yếu, ch�",Mất kết nối ho�,Lỗi card đ�,C,Mất kết nối ho�
+14,Module 5. Giải quyết v�,5,1,�u l� m�t trong nh�ng nguy�n nh�n ph� bi�n g�y ra l�i k�t n�i Wi-Fi?,� c�ng b� �y dung l��ng,Driver của card mạng bị lỗi hoặc ch�,Bộ nhớ RAM khô,Màn hình có độ phân gi,B,Driver của card mạng bị lỗi hoặc ch�
+15,Module 5. Giải quyết v�,5,1,"Triệu chứng máy khởi động chậm bất thường, file bị lỗi hoặc có tiếng kêu lạ là d",Lỗi bộ nh�,Lỗi card đ�,Lỗi nguồn ,Lỗi ổ cứng (Hard Disk E,D,Lỗi ổ cứng (Hard Disk E
+16,Module 5. Giải quyết v�,5,1,"Khi máy tính đột ngột khởi động lại hoặc ứng dụng hay bị treo, đây có thể",Lỗi ổ ,Lỗi bộ nh�,Lỗi card đ�,Lỗi kết nối,B,Lỗi bộ nh�
+17,Module 5. Giải quyết v�,5,1,Bước kiểm tra đầu tiên và đơn giản nhất khi gặp ,Cài đặt lại hệ �,Quan sát biểu tượng mạng và trạng t,Tháo rời và vệ sinh car,Mua một router m,B,Quan sát biểu tượng mạng và trạng t
+18,Module 5. Giải quyết v�,5,1,"Thao tác nào được mô tả là đơn giản nhưng hiệu quả, có thể khắc phụ",Thay đổi địa ,"Tắt nguồn router/modem, đợi 30 giây r�",Gỡ bỏ phần mềm di,"Chạy l�""tracert""",B,"Tắt nguồn router/modem, đợi 30 giây r�"
+19,Module 5. Giải quyết v�,5,1,"Nếu không kết nối được Wi-Fi sau khi cài đặt lại Windows, nguyên nhân phổ biến l","Do router quá nóng, cần t�","Do cáp mạng bị lỏng, cầ","Do driver card mạng lỗi thời, cần cập nhật ho�","Do ổ cứng bị lỗi, cầ",C,"Do driver card mạng lỗi thời, cần cập nhật ho�"
+20,Module 5. Giải quyết v�,5,1,Lệnh nào trong Command Prompt (CMD) được dùng để kiểm tra khả năng kết nối Internet tới một máy chủ,ipconfig /all,tracert 8.8.8.8,netstat -a,ping 8.8.8.8,D,ping 8.8.8.8
+21,Module 5. Giải quyết v�,5,2,Công cụ nào tích hợp sẵn trên Windows giúp ghi lại và xem các sự kiện (logs) liên quan đến l�,Device Manager,Task Manager,Event Viewer,Command Prompt,C,Event Viewer
+22,Module 5. Giải quyết v�,5,2,Phần mềm bên thứ ba nào được dùng để kiểm tra tình trạng sức k,MemTest86,HWMonitor,CrystalDiskInfo,HWiNFO,C,CrystalDiskInfo
+23,Module 5. Giải quyết v�,5,2,"Theo tài liệu, việc ngày giờ trên máy tính không khớp với thực tế c",Lỗi máy in không hoạ,"Lỗi chứng chỉ số, khiến trình duyệt web hoặc email ",Lỗi bàn phím không g�,Lỗi màn hình hiển thị,B,"Lỗi chứng chỉ số, khiến trình duyệt web hoặc email "
+24,Module 5. Giải quyết v�,5,2,"Khi một phần mềm yêu cầu cài thêm .NET Framework hoặc Visual C++ Runtime mà máy tính chưa có, đây l�",Sai cấu hình n�,Thiếu thành phần phụ trợ (depe,Phiên bản phần mềm không tư,Thiếu quyền truy,B,Thiếu thành phần phụ trợ (depe
+25,Module 5. Giải quyết v�,5,2,"Trên hệ điều hành Windows, công cụ nào được dùng để lưu lại và xem các lỗi của hệ thống và ",Task Manager,Control Panel,Event Viewer,Windows Explorer,C,Event Viewer
+26,Module 5. Giải quyết v�,5,2,�ng d�ng t��ng t� Event Viewer tr�n h� i�u h�nh macOS c� t�n l� g�?,Finder,System Preferences,Terminal,Console,D,Console
+27,Module 5. Giải quyết v�,5,2,Một thông báo lỗi thường bao gồm ba thành phần q,"Tên người dùng, Mật khẩu, ","Mã lỗi, Thông điệp lỗi, Chi ti�","Tên ứng dụng, Phiên bản, Nhà","Lỗi phần cứng, Lỗi phần m�",B,"Mã lỗi, Thông điệp lỗi, Chi ti�"
+28,Module 5. Giải quyết v�,5,2,"Khi gặp thông báo lỗi “DNS server not re"", người dùng nên kiểm tra cài đặt n�",Cài đặt ngày giờ h,Cài đặt quyền ngư,Cài đặt màn,Cài đặt mạng (Network Set,D,Cài đặt mạng (Network Set
+29,Module 5. Giải quyết v�,5,2,"Thông báo l�""Access denied"" khi mở một thư mục thường liên quan đến vấn",Cấu hình mạn,Phiên bản phần mềm không tư,Người dùng không đủ quyền ghi dữ liệu (q,Hệ thống thi�,C,Người dùng không đủ quyền ghi dữ liệu (q
+30,Module 5. Giải quyết v�,5,2,"Theo quy trình khoanh vùng hiệu quả 5 bước,""Xác định triệu chứn"", bước tiếp theo l",�c th�ng b�o l�i chi ti�t,Kiểm tra cài đặt li�,Tra cứu mã ,�a ra nh�n �nh nguy�n nh�n,B,Kiểm tra cài đặt li�
+31,Module 5. Giải quyết v�,5,2,"Công cụ nào trên Windows giúp kiểm tra các tiến trình đang chiếm nhiều tài nguyên và �""treo""?",Event Viewer,msconfig,Task Manager,System Restore,C,Task Manager
+32,Module 5. Giải quyết v�,5,2,Chế độ khởi động nào giúp xác định lỗi do phần mềm hệ thống hay do phầ,Hibernate Mode,Normal Mode,Sleep Mode,Safe Mode,D,Safe Mode
+33,Module 5. Giải quyết v�,5,2,"Trong tình huống trình duyệt không truy cập được trang web, lệnh ping 8.8.8.8 giúp x",Lỗi do file hệ t,Lỗi ở tầng DNS hay mạn,Lỗi do thiếu driver card đ,Lỗi do thiếu,B,Lỗi ở tầng DNS hay mạn
+34,Module 5. Giải quyết v�,5,2,"Theo tài liệu, nguồn thông tin nào được xem là đáng tin cậy nhất khi tìm hi",Blog công ngh,Kênh YouTube chuyên m,Trang web chính thức của nhà phát triển,Diễn đàn h�,C,Trang web chính thức của nhà phát triển
+35,Module 5. Giải quyết v�,5,2,"Nền tảng nào được mô tả là nơi người học có thể đọc thảo luận, đặt câu hỏi và nh�",Coursera,GitHub,Stack Overflow,TechCrunch,C,Stack Overflow
+36,Module 5. Giải quyết v�,5,2,"Khi tìm kiếm tài liệu, tại sao nên ưu tiên dùng từ k",� k�t qu� t�m ki�m �t h�n,� m� r�ng ph�m vi t�i li�u v� ti�p c�n ngu�n th�ng tin phong ph� h�n,Vì công cụ tìm kiếm chỉ hiể,� tr�nh c�c trang web ch�nh th�c,B,� m� r�ng ph�m vi t�i li�u v� ti�p c�n ngu�n th�ng tin phong ph� h�n
+37,Module 5. Giải quyết v�,5,2,Toán tử tìm kiếm site: được sử d�,� t�m m�t lo�i t�p c� th� (v� d�: pdf),� t�m ki�m m�t c�m t� ch�nh x�c,� t�m ki�m trong m�t trang web c� th�,� k�t h�p nhi�u t� kh�a,C,� t�m ki�m trong m�t trang web c� th�
+38,Module 5. Giải quyết v�,5,2,"� t�m ki�m m�t file c� �nh d�ng PDF v� ch� � ""digital literacy"", cú pháp tìm kiếm nào l�","""digital literacy"" pdf",digital literacy AND pdf,filetype:pdf digital literacy,site:pdf digital literacy,C,filetype:pdf digital literacy
+39,Module 5. Giải quyết v�,5,3,"Khi tìm kiếm video hướng dẫn trên YouTube, bộ lọc nào nên được sử dụng �",Lọc theo độ dài,Lọc theo ngôn ,Lọc theo số lư�,Lọc theo thời gian (ví dụ: tháng g,D,Lọc theo thời gian (ví dụ: tháng g
+40,Module 5. Giải quyết v�,5,3,"Khi truy cập một kho mã nguồn trên GitHub, bạn nên kiểm tra phần nào đầu tiên để ","Phầ""Issues"" (Vấn �","Phầ""README.md""","Phầ""Stars"" (Số lượng","Phầ""Code"" (Mã ngu�",B,"Phầ""README.md"""
+41,Module 5. Giải quyết v�,5,3,"Trước khi tìm kiếm tài liệu, bước đầu tiên và quan ",Xác định rõ mục tiêu và nhu cầu học t�,Tìm kiếm ngay lập tức với từ khóa đ�,Chọn nền tảng học trực tuyến �,Chỉ tìm kiếm tài liệu bằng ,A,Xác định rõ mục tiêu và nhu cầu học t�
+42,Module 5. Giải quyết v�,5,3,Một trong những tiêu chí quan trọng để đánh giá một tài liệu trực tuyến có đán,Tài liệu phải được viết cách,Tính cập nhật (được viết hoặc cập nhật trong vòn,Tài liệu phải có nhiều thuật ng,Tác giả phải là người nổi tiếng tr�,B,Tính cập nhật (được viết hoặc cập nhật trong vòn
+43,Module 5. Giải quyết v�,5,3,"Trong tình huống thực hành, để tìm tài liệu chính thức về lỗi Wi-Fi trên Windows 11, từ","""lỗi wifi win ""","""Windows 11 cannot connect to WiFi""","""Windows 11 cannot connect to WiFi site:microsoft.com""","""help me fix wifi""",C,"""Windows 11 cannot connect to WiFi site:microsoft.com"""
+44,Module 5. Giải quyết v�,5,3,"Kỹ năng nào được nhấ""chìa khóa của tự học trong th�""?",Kỹ năng lập ,Kỹ năng thiết kế,Kỹ năng giao t,Kỹ năng tìm kiếm và đánh giá tài li�,D,Kỹ năng tìm kiếm và đánh giá tài li�
+45,Module 5. Giải quyết v�,5,3,"Theo tài liệu, việc học theo tài liệu công nghệ lỗi thời hoặc sai lệch có t",Cải thiện tư duy ph�,Tiết kiệm thời gian h,"Gây lỗi hệ thống, hỏn",Tăng cường sự ,C,"Gây lỗi hệ thống, hỏn"
+46,Module 5. Giải quyết v�,5,3,�u l� m�t trong nh�ng ti�u ch� � �nh gi� m�t ngu�n t�i li�u c� uy t�n hay kh�ng?,Tài liệu phải được viết cách,Nội dung phải thiên về b,Tác giả/tổ chức phát hành rõ ràng và c,Không có bất kỳ bình luận hay ph�,C,Tác giả/tổ chức phát hành rõ ràng và c
+47,Module 5. Giải quyết v�,5,3,"""Tính cập n"" của một tài liệu công nghệ được xem l",��c vi�t ho�c ch�nh s�a trong v�ng 5-10 nm,��c vi�t ho�c ch�nh s�a trong v�ng 1-2 nm g�n nh�t,Không có ngày tháng xu�,��c vi�t tr��c nm 2010,B,��c vi�t ho�c ch�nh s�a trong v�ng 1-2 nm g�n nh�t
+48,Module 5. Giải quyết v�,5,3,Nguồn tài liệu nào sau đây được khuyến khích ưu tiên hàng đ�,Blog cá nhân không rõ tá,Video trên các kênh giả,Trang web chính thức của nhà phát triển (ví dụ: docs.mi,Các bài đăng trên diễn đàn không có lư,C,Trang web chính thức của nhà phát triển (ví dụ: docs.mi
+49,Module 5. Giải quyết v�,5,3,"Các nền tảng học tập như Coursera, edX, Khan Academy được coi là đán",Vì các khóa học luôn mi,"Vì tài liệu có kiểm định, có đội ngũ học thuật hoặc t�",Vì chúng chỉ cung cấp các khóa học v�,Vì chúng có giao diện quảng cáo,B,"Vì tài liệu có kiểm định, có đội ngũ học thuật hoặc t�"
+50,Module 5. Giải quyết v�,5,3,�u l� m�t v� d� v� ngu�n t�i li�u KH�NG �ng tin c�y?,Bài viết trên trang chính thức c�,Video từ kênh Microsoft Le,"Blog không có thông tin tác giả, viết từ năm 2017, chứa nh",Khóa học trên Cour,C,"Blog không có thông tin tác giả, viết từ năm 2017, chứa nh"
+51,Module 5. Giải quyết v�,5,3,"Khi gặp một video hướng dẫn chưa rõ độ tin cậy, bạn nên ",Chỉ xem số lư�,Xem bình luận để kiểm tra phản hồ,Tin tưởng ngay nếu video có hình ,"Không cần kiểm tra, làm the",B,Xem bình luận để kiểm tra phản hồ
+52,Module 5. Giải quyết v�,5,3,"Trong tình huống thực hành, tại sao nên chọn Video ""Programming with Mosh"", đăng 3 tháng trước) thay vì Video A (kênh không rõ tên, đăng ",Vì Video B có tiêu đề ng,Vì Video A có thể chứa,"Vì Video B có nội dung mới, kênh uy tín và phản h",Vì Video A có chất lượng hình ả,C,"Vì Video B có nội dung mới, kênh uy tín và phản h"
+53,Module 5. Giải quyết v�,5,3,Một trong những mẹo lựa chọn nhanh để học đ,Luôn chọn video dài ,Luôn kiểm tra tác giả và thời gian,Chỉ học từ các tài liệu có nhiều,�u ti�n c�c blog c� nhi�u qu�ng c�o,B,Luôn kiểm tra tác giả và thời gian
+54,Module 5. Giải quyết v�,5,3,Google Scholar được đề cập là nguồn tài liệu phù hợp cho ,Hướng dẫn cài đặt phần,Tin tức công nghệ hàn,"Nội dung nâng cao, phân tích chuy�",Video giải t,C,"Nội dung nâng cao, phân tích chuy�"
+55,Module 5. Giải quyết v�,5,3,Việc một tài liệu có trích dẫn hoặc liên kết tham khảo đi k�,"Người viết lười biếng, sao ch�",Người viết không chỉ chia sẻ cảm tính,Tài liệu này đã l�,Nội dung chỉ dành cho chuy�,B,Người viết không chỉ chia sẻ cảm tính
+56,Module 5. Giải quyết v�,5,3,"Theo tài liệu, nguồn nào cung cấp nền tảng lý thuyết chắc chắn và giúp ",Blog cá nh�,Diễn đàn công,Tài liệu học ,Video hướng dẫn trên ,C,Tài liệu học 
+57,Module 5. Giải quyết v�,5,3,�u l� m�t �c i�m c�a t�i li�u h�c thu�t?,"Dùng ngôn ngữ đơn giản, p",Không có trích dẫn hay dữ liệu m,"Thường được xuất bản bởi trường đại h",Luôn được đăng tải trên m,C,"Thường được xuất bản bởi trường đại h"
+58,Module 5. Giải quyết v�,5,3,Nền tảng nào được mô tả là chuyên về lĩnh vực,IEEE Xplore,Google Scholar,ACM Digital Library,ScienceDirect,C,ACM Digital Library
+59,Module 5. Giải quyết v�,5,3,"Khi tìm kiếm trên Google Scholar, bạn nên đọc phần nào của một bài báo trước t",Method (Phương ph�,Results (Kết qu,Abstract (Tóm t�,Introduction (Giới thi�,C,Abstract (Tóm t�
+60,Module 5. Giải quyết v�,5,4,"Tính năng nào trên Google Scholar giúp người dùng tìm các bài viết có trích dẫn một bài báo cụ thể, rất ","Nút""Save""",Bộ lọc theo,"Nút""Cited by..."" (Được trích dẫn ",Hộp tìm kiếm t�,C,"Nút""Cited by..."" (Được trích dẫn "
+61,Module 5. Giải quyết v�,5,4,"Diễn đàn nào đượ""số 1 về hỏi đáp l""?",Reddit,Quora,GitHub Discussions,Stack Overflow,D,Stack Overflow
+62,Module 5. Giải quyết v�,5,4,"Trước khi đặt một câu hỏi trên diễn đàn, bạn n�",Viết ngay một tiêu đề ,Tìm kiếm các câu hỏi tương,ng c�u h�i tr�n nhi�u di�n �n c�ng l�c,Cung cấp thông tin cá ,B,Tìm kiếm các câu hỏi tương
+63,Module 5. Giải quyết v�,5,4,"Khi đặt câu hỏi trên diễn đàn, bạn cần cung cấp những thông tin gì để tăng khả năng nh�",Chỉ tiêu đề c,"Mô tả chi tiết vấn đề, bạn đã làm gì, lỗi là g�",Chỉ ảnh chụp màn h,Tên và tuổi c�,B,"Mô tả chi tiết vấn đề, bạn đã làm gì, lỗi là g�"
+64,Module 5. Giải quyết v�,5,4,"Trên Stack Overflow, câu trả lời nào nên được ưu ",Câu trả lời m�,Câu trả lời ng�,Câu trả lời có nhiều hình,"Câu trả lời có vote cao hoặc �""Accepted Answer""",D,"Câu trả lời có vote cao hoặc �""Accepted Answer"""
+65,Module 5. Giải quyết v�,5,4,Tại sao cần kiểm tra ngày đăng của một câu trả lời trên ,Vì câu trả lời cũ hơn thường ch,"Vì công nghệ thay đổi nhanh, câu trả lời cũ có t",� bi�t ng��i tr� l�i c� nhi�u th�i gian r�nh kh�ng,� xem di�n �n c� ho�t �ng hay kh�ng,B,"Vì công nghệ thay đổi nhanh, câu trả lời cũ có t"
+66,Module 5. Giải quyết v�,5,4,"Trong tình huống thực hành, khi tìm h""hiệu quả của ChatGPT trong gi"" trên Google Scholar, bạn nên lọc kết quả nh",Lọc các bài viết từ 10 n,Lọc các bài viết trong 2 năm g,Không cần lọc th�,Chỉ đọc các bài không có ,B,Lọc các bài viết trong 2 năm g
+67,Module 5. Giải quyết v�,5,4,Google Sheets là g�,Một phần mềm chỉnh sửa video chu,Một công cụ bảng tính trực tuyến miễn ,Một hệ điều hành cho ,Một ứng dụng mạn,B,Một công cụ bảng tính trực tuyến miễn 
+68,Module 5. Giải quyết v�,5,4,"Trong giao diện Google Sheets, các cột được ký hi�","Số (1, 2, 3..","Ký tự đặc biệt (@, ","Chữ cái (A, B, C.","La mã (I, II, III...",C,"Chữ cái (A, B, C."
+69,Module 5. Giải quyết v�,5,4,"� nh�p m�t c�ng th�c trong Google Sheets, b�n ph�i b�t �u b�ng d�u g�?",Dấu chấm,Dấu thăng ,Dấu sao (,Dấu bằng,D,Dấu bằng
+70,Module 5. Giải quyết v�,5,4,"Tính năng nào cho phép bạn kéo góc ô để tự động điền tiếp ""Thứ H"", ""Thứ "", ""Thứ ""?",Data Validation,Conditional Formatting,Autofill (Tự động ,Formula Suggestion,C,Autofill (Tự động 
+71,Module 5. Giải quyết v�,5,4,"� t�o m�t menu th� xu�ng v�i c�c l�a ch�n c� �nh nh� ""� n�p"", ""Chưa n�"", bạn nên sử dụng tính n",Data Validation (Xác thực dữ ,Autofill,Conditional Formatting,Freeze Panes,A,Data Validation (Xác thực dữ 
+72,Module 5. Giải quyết v�,5,4,Tính năng nào giúp tự động thay đổi định dạng của ô (ví dụ: đổi nền ô sang màu đỏ) khi dữ liệu trong ô đó thỏa mãn,Data Validation,Autofill,Conditional Formatting (Định dạng theo đi�,Formula Bar,C,Conditional Formatting (Định dạng theo đi�
+73,Module 5. Giải quyết v�,5,4,"� gi� c� �nh d�ng ti�u � c�a b�ng t�nh khi cu�n trang, b�n n�n s� d�ng t�y ch�n n�o trong menu ""View""?",Zoom,Full screen,Show formulas,Freeze (Cố đ�,D,Freeze (Cố đ�
+74,Module 5. Giải quyết v�,5,4,Lỗi #VALUE! trong Google Sheets thường xuất hiện do nguyê,Sai định dạng dữ liệu trong công thức (ví dụ: cộng m�,Mất kết nối In,Bảng tính có quá nhiều ,Lỗi chính tả trong ô v,A,Sai định dạng dữ liệu trong công thức (ví dụ: cộng m�
+75,Module 5. Giải quyết v�,5,4,"Khi dữ liệu tiếng Việt bị mất dấu hoặc hiển thị ký tự lạ, nguyên nhân thường là do ô đang đư�","�nh d�ng l� Text, c�n chuy�n sang Date","�nh d�ng l� Number, c�n chuy�n v� Text","�nh d�ng l� Date, c�n chuy�n sang Number","�nh d�ng l� Percentage, c�n chuy�n v� Text",B,"�nh d�ng l� Number, c�n chuy�n v� Text"
+76,Module 5. Giải quyết v�,5,4,Phím tắt nào được dùng để xem danh sách tất cả các phím tắt,Ctrl + C,Ctrl + S,Ctrl + D,Ctrl + /,D,Ctrl + /
+77,Module 5. Giải quyết v�,5,4,Phím tắt Ctrl + D trong Google Sheets có chức n�,Xóa ô hiện,Sao chép ô phía t,In đậm chữ tr,Dán dữ l,B,Sao chép ô phía t
+78,Module 5. Giải quyết v�,5,4,"Mục đích chính của tí""L�"" (Filter) trong Google Sheets là g�",Thay đổi thứ tự các dòng theo giá trị tăng dầ,Chỉ hiển thị dữ liệu thỏa mãn một điều kiện nhất định và,Xóa vĩnh viễn các dòng không c�,Tính toán tổng giá trị củ,B,Chỉ hiển thị dữ liệu thỏa mãn một điều kiện nhất định và
+79,Module 5. Giải quyết v�,5,4,"Tính năn""Sắp x"" (Sort) khác v�""L�"" (Filter) ở điểm","Sắp xếp ẩn đi các dòng không phù hợp, còn","Lọc thay đổi thứ tự các dòng, còn Sắp xếp chỉ hiển thị ","Sắp xếp thay đổi thứ tự các dòng, còn Lọc ẩn các","Lọc dùng để tính toán, còn Sắp xếp dùn",C,"Sắp xếp thay đổi thứ tự các dòng, còn Lọc ẩn các"
+80,Module 5. Giải quyết v�,5,4,"� t�o m�t b� l�c trong Google Sheets, sau khi ch�n v�ng d� li�u, b�n c�n v�o menu n�o?",File,Edit,Insert,Data,D,Data
+81,Module 5. Giải quyết v�,5,4,Biểu tượng nào xuất hiện trên dòng tiêu đề sau khi b�,Hình cái k,Hình cái b,Hình cái ph,Hình ngôi s,C,Hình cái ph
+82,Module 5. Giải quyết v�,5,4,"� l�c v� ch� hi�n th� c�c sinh vi�n c� i�m l�n h�n 8.0, b�n n�n s� d�ng t�y ch�n n�o?",Filter by values,Filter by condition (Lọc theo điều ,Sort A -> Z,Sort Z -> A,B,Filter by condition (Lọc theo điều 
+83,Module 5. Giải quyết v�,5,4,"Khi sắp xếp một bảng dữ liệu, tại sao bạn cần chọn toàn bộ b�",� s�p x�p nhanh h�n,"� tr�nh l�m d� li�u b� l�ch d�ng, sai th�ng tin",� ch� s�p x�p ��c c�t �u ti�n,� �p d�ng �nh d�ng cho to�n b�ng,B,"� tr�nh l�m d� li�u b� l�ch d�ng, sai th�ng tin"
+84,Module 5. Giải quyết v�,5,4,"� s�p x�p d� li�u theo nhi�u c�p (v� d�: s�p x�p theo L�p tr��c, sau � s�p x�p theo i�m), b�n n�n d�ng t�nh nng n�o?",Create a filter,Basic sort (A->Z),Advanced range sorting options (Tùy chọn sắp xếp dải ô,Filter by condition,C,Advanced range sorting options (Tùy chọn sắp xếp dải ô
+85,Module 5. Giải quyết v�,5,4,"Khi sắp xếp một bảng có dòng tiêu đề, bạn cần tick vào tùy chọn nào để kh",Data has no header row,Sort by column A,Add another sort column,Data has header row (Dữ liệu có hàng ti,D,Data has header row (Dữ liệu có hàng ti
+86,Module 5. Giải quyết v�,5,4,Một trong những lỗi thường gặp khi lọc và sắp x�,"Chỉ chọn một cột để sắp xếp, khiến d�",Dữ liệu được sắp x�,Bộ lọc hiển thị quá nhi�,Không thể sắp xếp dữ li�,A,"Chỉ chọn một cột để sắp xếp, khiến d�"
+87,Module 5. Giải quyết v�,5,4,"Tính năn""Filter View"" (Chế độ xem bộ lọc) hữu ích trong tr�",Khi bạn muốn xóa vĩnh viễn dữ liệu kh�,Khi bạn làm việc một mình và không ch,Khi bạn muốn tạo một bản sao củ,Khi bạn làm việc nhóm và muốn lọc theo cách riêng mà không ảnh hư,D,Khi bạn làm việc nhóm và muốn lọc theo cách riêng mà không ảnh hư
+88,Module 5. Giải quyết v�,5,4,"� t�o m�t b� l�c ri�ng kh�ng �nh h��ng �n b�ng g�c, b�n v�o ""Data"" và chọn mục",Sort range,Create a filter,Filter views (Chế độ xem b�,Data validation,C,Filter views (Chế độ xem b�
+89,Module 5. Giải quyết v�,5,4,Tại sao cần trực quan hóa dữ liệu b�,� l�m cho b�ng d� li�u tr�ng ph�c t�p h�n,"� bi�n c�c con s� th�nh h�nh �nh tr�c quan, d� nh�n ra xu h��ng v� so s�nh",� �n i c�c d� li�u quan tr�ng,� tng k�ch th��c c�a t�p b�ng t�nh,B,"� bi�n c�c con s� th�nh h�nh �nh tr�c quan, d� nh�n ra xu h��ng v� so s�nh"
+90,Module 5. Giải quyết v�,5,4,"Loại biểu đồ nào phù hợp nhất khi muốn so sánh các giá trị khác nhau, ví dụ như điểm",Biểu đồ tròn (Pie ,Biểu đồ đường (Li,Biểu đồ cột (Column,Biểu đồ vùng (Area ,C,Biểu đồ cột (Column
+91,Module 5. Giải quyết v�,5,4,"� th� hi�n s� thay �i c�a d� li�u theo th�i gian, ch�ng h�n nh� i�m s� qua t�ng k� h�c, lo�i bi�u � n�o l� ph� h�p nh�t?",Biểu đồ tròn (Pie ,Biểu đồ đường (Li,Biểu đồ cột (Column,Biểu đồ thanh (Bar C,B,Biểu đồ đường (Li
+92,Module 5. Giải quyết v�,5,4,"Khi muốn hiển thị tỷ lệ phần trăm của các thành phần trong một tổng thể, ví dụ như tỷ lệ sinh viên đạt loại Giỏi, K",Biểu đồ tròn (Pie ,Biểu đồ đường (Li,Biểu đồ cột (Column,Biểu đồ thanh (Bar C,A,Biểu đồ tròn (Pie 
+93,Module 5. Giải quyết v�,5,4,Biểu đồ thanh (Bar Chart) nằm ngang thường được ưu tiên hơn bi�,Khi dữ liệu thay đổi theo th,Khi muốn thể hiện tỷ lệ,Khi tên các đối tượng so sán,Khi chỉ có hai nhóm dữ liệu đ,C,Khi tên các đối tượng so sán
+94,Module 5. Giải quyết v�,5,4,Bước đầu tiên để tạo một biểu đồ trong G,Vào menu Insert → Ch,Chọn vùng dữ liệu muốn v,Tùy chỉnh màu sắc và ,Chọn loại bi�,B,Chọn vùng dữ liệu muốn v
+95,Module 5. Giải quyết v�,5,4,"Sau khi Google Sheets tự động tạo một biểu đồ mặc định, bạn có thể thay",Trong thanh công thức (Formula B,Trong menu File → Page set,"Trong khung chỉnh sửa biểu đồ bên p""Chart type""",Trong menu Format → Conditional formatti,C,"Trong khung chỉnh sửa biểu đồ bên p""Chart type"""
+96,Module 5. Giải quyết v�,5,4,"� i�u ch�nh ti�u �, m�u s�c, ph�ng ch� c�a bi�u �, b�n c�n nh�n v�o tab n�o trong c�a s� ch�nh s�a?",Setup,Chart type,Customize (Tùy chỉ,Data range,C,Customize (Tùy chỉ
+97,Module 5. Giải quyết v�,5,4,"Khi đọc một biểu đồ, yếu tố nào cần được chú ý để hiểu bi",Chỉ màu sắc của ,Chỉ kích thước của,Chỉ phông chữ đượ,"Trục tung, trục hoành, và các ch",D,"Trục tung, trục hoành, và các ch"
+98,Module 5. Giải quyết v�,5,4,Một trong những lỗi thường gặp khi tạo b,Chọn quá nhiều d�,"Không có tiêu đề, khiến người đọc không hiểu bi�",Biểu đồ quá đ,Sử dụng quá ít m,B,"Không có tiêu đề, khiến người đọc không hiểu bi�"
+99,Module 5. Giải quyết v�,5,4,"Theo mẹo trình bày biểu đồ chuyên nghiệp, b�",Sử dụng càng nhiều màu sắc và hiệu,�t bi�u � xa b�ng d� li�u g�c,"Chỉ hiển thị thông tin cần thiết, tránh",Dùng cỡ chữ thật nhỏ để tiết k,C,"Chỉ hiển thị thông tin cần thiết, tránh"
+100,Module 5. Giải quyết v�,5,4,"Theo tài liệu, tại sao sinh viên cần cải tiến quy trình học tập và làm vi",� l�m cho c�ng vi�c tr� n�n ph�c t�p h�n,"Vì các quy trình thủ công thường tốn thời gian, dễ qu�",� ch�ng t� m�nh gi�i c�ng ngh�,Vì đó là yêu cầu bắt buộc của tất,B,"Vì các quy trình thủ công thường tốn thời gian, dễ qu�"
+101,Module 5. Giải quyết v�,5,4,Bước đầu tiên để cải tiến một ,�p d�ng ngay m�t c�ng c� m�i,Tìm kiếm các lỗi ph,Liệt kê các bước trong quy trình hiện tại �,Bỏ qua quy trình cũ và làm theo cách hoàn ,C,Liệt kê các bước trong quy trình hiện tại �
+102,Module 5. Giải quyết v�,5,4,Việc vẽ sơ đồ hoặc lập bảng mô tả quy trình hi�,Làm cho quy trình trông chuyên nghi�,"Giúp nhìn thấy rõ chỗ nào đang làm mất thời gian",Che giấu những điểm yếu củ,Thêm nhiều bước không cần thiết v�,B,"Giúp nhìn thấy rõ chỗ nào đang làm mất thời gian"
+103,Module 5. Giải quyết v�,5,4,"Công cụ nào phù hợp nhất để lập kế hoạch nhóm, theo dõi tiến độ và cho phép nhiều ngư�",Google Forms,Google Calendar,Google Sheets / Google Docs,Evernote,C,Google Sheets / Google Docs
+104,Module 5. Giải quyết v�,5,4,"� t�o l�ch nh�c vi�c c� nh�n ho�c nh�m, ch�ng h�n nh� nh�c l�ch n�p b�i, b�n n�n s� d�ng c�ng c� n�o?",Google Sheets,Google Forms,Google Drive,Google Calendar / To Do,D,Google Calendar / To Do
+105,Module 5. Giải quyết v�,5,4,"Công cụ nào được dùng để thu thập ý kiến, làm khảo sát nhóm hoặc tạo form đăng ký và tự đ�",Google Docs,Google Calendar,Google Forms,Notion,C,Google Forms
+106,Module 5. Giải quyết v�,5,4,"Evernote, Notion, và OneNote là những công cụ mạnh mẽ dùn",Quản lý lịc,"Ghi chú số (lưu văn bản, hình ảnh,",Tạo bài thuyết ,Chỉnh sửa v,B,"Ghi chú số (lưu văn bản, hình ảnh,"
+107,Module 5. Giải quyết v�,5,4,"Theo quy trình 6 bước để triển khai một giải pháp cả""� xu�t c�ng c� ph� h�p"", bước tiếp theo l",Chia sẻ với bạn cù,Ghi nhận hiệu,Quan sát lại quy tr,Thử áp dụng trong thời gian ngắn,D,Thử áp dụng trong thời gian ngắn
+108,Module 5. Giải quyết v�,5,4,"Trong tình huống minh họa về việc học nhóm, giải pháp nào đã được áp d�""quên lịch hẹn tậ""?",Dùng Google Sheets để ghi,Dùng Google Calendar để hẹ,Dùng Google Drive để lưu ,Dùng Google Forms để kh�,B,Dùng Google Calendar để hẹ
+109,Module 5. Giải quyết v�,5,4,Một trong những điểm chưa hiệu quả thường thấy trong các quy trình làm ,Có quá nhiều công cụ ,Luôn nhớ deadl,"Ghi chú bị thất lạc, không ",Dễ dàng thu thập thông tin từ nhi,C,"Ghi chú bị thất lạc, không "
+110,Module 5. Giải quyết v�,5,4,Lợi ích chính của việc sử dụng Google Sheets/Docs trong làm vi�,Chỉ một người có thể chỉnh sửa t�,Dữ liệu không được l�,Khó theo dõi lịch sử ch�,"Dễ chia sẻ, mọi người cùng chỉnh sửa đ�",D,"Dễ chia sẻ, mọi người cùng chỉnh sửa đ�"
+111,Module 5. Giải quyết v�,5,4,"Theo tài liệu, việc ứng dụng giải pháp số giúp chuyển đổi trải nghiệm làm việc nhóm từ trạ",Từ phức tạp sang đ,Từ tốn kém sang mi�,Từ rối rắm sang t,Từ chuyên nghiệp sang nghi,C,Từ rối rắm sang t
+112,Module 5. Giải quyết v�,5,4,Lợi ích đầu tiên được đề cập khi áp dụng công cụ số ,Tăng tính cạnh t,Tiết kiệm thời gian và c,Giảm sự sán,Tăng số lượng cu,B,Tiết kiệm thời gian và c
+113,Module 5. Giải quyết v�,5,4,"Theo ví dụ định lượng, một nhóm 4 người đã tiết kiệm được bao nhiêu giờ làm việc khi dùng Google Sheets để theo d",1-2 gi�,2-4 gi�,4-6 gi�,6-8 gi�,C,4-6 gi�
+114,Module 5. Giải quyết v�,5,4,"Việc lưu trữ tài liệu trên đám mây (Google Drive, Notion) mang l�",Phải tải file về mỗi khi ,Dễ bị lạc phiên bản,Mọi thành viên có thể chỉnh sửa cùng lúc và truy c�,Chỉ một người có thể truy cập tại,C,Mọi thành viên có thể chỉnh sửa cùng lúc và truy c�
+115,Module 5. Giải quyết v�,5,4,Sử dụng Google Sheets để phân công công việc với cột deadline và trạng thái cụ thể g,Tăng độ chính xác và giả,Khiến công việc trở nên ph�,Làm các thành viên dễ quên deadl,Dễ gây nhầm lẫn về,A,Tăng độ chính xác và giả
+116,Module 5. Giải quyết v�,5,4,"Lợi í""Tăng tính minh bạch và khả năng "" có nghĩa là ",Mọi người không biết ai đang l�,Khó biết được ai đã chỉnh s,"Mọi người có thể thấy ai đang làm gì, làm đến đâu và xem đ",Chỉ trưởng nhóm mới có quyền ,C,"Mọi người có thể thấy ai đang làm gì, làm đến đâu và xem đ"
+117,Module 5. Giải quyết v�,5,4,"Khi áp dụng công cụ số, quy trình làm việc được cải thiện như thế nào",Vẫn phải nhắc miệng thư,Vẫn dễ quên như,Có thể lên lịch trên Google Calendar có nhắc n,Không cần theo dõi deadline,C,Có thể lên lịch trên Google Calendar có nhắc n
+118,Module 5. Giải quyết v�,5,4,"So với việc mỗi người sửa một bản slide riêng, giải pháp số",Vẫn giữ cách l,Chỉ một người được ph�,Sửa chung trên một file Google Slides duy,Gửi file qua lại qua Zalo đ,C,Sửa chung trên một file Google Slides duy
+119,Module 5. Giải quyết v�,5,4,"Khi trình bày lợi ích của một giải pháp số, bạn nên làm gì để ",Chỉ nêu cảm nhận chun,Tránh đưa ra các con số ,�a s� li�u so s�nh th�i gian ti�t ki�m ��c,Chỉ trích cách làm vi,C,�a s� li�u so s�nh th�i gian ti�t ki�m ��c
+120,Module 5. Giải quyết v�,5,4,"Trong tình huống thực tế của nhóm bạn Ngọc, sau khi áp dụng Google Docs và Google Calendar, kết",Bài viết vẫn rời rạc và khô,Các thành viên không hợp tác v,"Bài viết liền mạch, hoàn thành đúng hạn và được giả",Nhóm phải làm lại ,C,"Bài viết liền mạch, hoàn thành đúng hạn và được giả"
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
